@@ -1,0 +1,13 @@
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\BrahmiLipi\BrahmiLipi\obj\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\BrahmiLipi\BrahmiLipi\obj\Debug\AxInterop.SHDocVw.dll
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\BrahmiLipi\BrahmiLipi\obj\Debug\BrahmiLipi.csproj.ResolveComReference.cache
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\BrahmiLipi\BrahmiLipi\obj\Debug\BrahmiLipi.exe
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\BrahmiLipi\BrahmiLipi\obj\Debug\BrahmiLipi.pdb
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\BrahmiLipi\BrahmiLipi\bin\Debug\BrahmiLipi.exe
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\BrahmiLipi\BrahmiLipi\bin\Debug\BrahmiLipi.pdb
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\BrahmiLipi\BrahmiLipi\bin\Debug\Interop.SHDocVw.dll
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\BrahmiLipi\BrahmiLipi\bin\Debug\AxInterop.SHDocVw.dll
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\BrahmiLipi\BrahmiLipi\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\BrahmiLipi\BrahmiLipi\obj\Debug\BrahmiLipi.MainForm.resources
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\BrahmiLipi\BrahmiLipi\obj\Debug\BrahmiLipi.KeyHelp.resources
+C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\BrahmiLipi\BrahmiLipi\obj\Debug\BrahmiLipi.csproj.GenerateResource.Cache

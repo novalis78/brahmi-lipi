@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BrahmiLipi">
+</Property><Property Name="Solution File" Value="C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\BrahmiLipi\BrahmiLipi\BrahmiLipi.sln">
+</Property><Property Name="User Options File" Value="C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\BrahmiLipi\BrahmiLipi\BrahmiLipi.suo">
+</Property><Property Name="Date" Value="Sunday, May 16, 2010">
+</Property><Property Name="Time" Value="18:05">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BrahmiLipi.sln" Description="File successfully backed up as C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\BrahmiLipi\BrahmiLipi\Backup\BrahmiLipi.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BrahmiLipi.suo" Description="File successfully backed up as C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\BrahmiLipi\BrahmiLipi\Backup\BrahmiLipi.suo">
+</Event><Event ErrorLevel="0" Project="BrahmiLipi" Source="BrahmiLipi.csproj" Description="Project file successfully backed up as C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\BrahmiLipi\BrahmiLipi\Backup\BrahmiLipi.csproj">
+</Event><Event ErrorLevel="0" Project="BrahmiLipi" Source="BrahmiLipi.csproj.user" Description="Project user file successfully backed up as C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\BrahmiLipi\BrahmiLipi\Backup\BrahmiLipi.csproj.user">
+</Event><Event ErrorLevel="0" Project="BrahmiLipi" Source="AssemblyInfo.cs" Description="File successfully backed up as C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\BrahmiLipi\BrahmiLipi\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BrahmiLipi" Source="Form1.cs" Description="File successfully backed up as C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\BrahmiLipi\BrahmiLipi\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="BrahmiLipi" Source="KeyHelp.cs" Description="File successfully backed up as C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\BrahmiLipi\BrahmiLipi\Backup\KeyHelp.cs">
+</Event><Event ErrorLevel="0" Project="BrahmiLipi" Source="App.ico" Description="File successfully backed up as C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\BrahmiLipi\BrahmiLipi\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="BrahmiLipi" Source="Form1.resx" Description="File successfully backed up as C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\BrahmiLipi\BrahmiLipi\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="BrahmiLipi" Source="KeyHelp.resx" Description="File successfully backed up as C:\Documents and Settings\llopin\My Documents\Visual Studio 2008\Projects\BrahmiLipi\BrahmiLipi\Backup\KeyHelp.resx">
+</Event><Event ErrorLevel="0" Project="BrahmiLipi" Source="BrahmiLipi.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BrahmiLipi" Source="BrahmiLipi.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BrahmiLipi.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BrahmiLipi.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BrahmiLipi" Source="BrahmiLipi.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
